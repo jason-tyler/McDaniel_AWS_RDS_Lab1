@@ -1,2 +1,2 @@
-# AWS RDS Lab1  
-The purpose of this lab is to install an RDS instance within AWS and create database objects within the database.
+# HappyPets Database
+Database code for the fictitious veterinary hospital "Happy Pets, Inc."
